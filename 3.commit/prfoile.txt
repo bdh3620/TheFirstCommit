@@ -1,2 +1,2 @@
-email :
-gitID :
+email :bdh3620@naver.com	
+gitID :bdh3620
